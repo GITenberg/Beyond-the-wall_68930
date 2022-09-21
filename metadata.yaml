@@ -1,0 +1,28 @@
+_repo: Beyond-the-wall_68930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leverage, Henry
+    alias: Leverage, Carl Henry
+    birthdate: 1885
+    deathdate: 1931
+    gutenberg_agent_id: '36707'
+    url: http://www.gutenberg.org/2009/agents/36707
+description: ''
+gutenberg_issued: '2022-09-07'
+identifiers:
+  gutenberg: '68930'
+language: en
+pgterms:marc904: https://archive.org/details/BlueBookV030N04192002IbcBc
+pgterms:marc905: 20220730171635leverage
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Ridgway Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Beyond the wall
+url: http://www.gutenberg.org/ebooks/68930
